@@ -1,26 +1,26 @@
 body{
   text-align:center;
   font-family:Open Sans,sans-serif;
-  background-color:#8a71c9;
-  color:#ffffff;
+  background-color:#b0a2d1;
+  color:#000000;
   margin: 0px 0px 30px 0px;
 }
 
 h2{
-  color:#2a0074;
-  font-size: 40px;
+  color:#ffffff;
+  font-size: 30px;
 }
 
 .titulo-verde{
-  color:#04ff9f;
+  color:#ffffff;
 }
 
 .titulo-vermelho{
-  color:#FF9E9E;
+  color:#ffffff;
 }
 
 .titulo-amarelo{
-  color:#ffe36d;
+  color:#fffffd;
 }
 
 section{
@@ -34,7 +34,7 @@ section section {
 }
 
 h1{
-  font-size: 60px;
+  font-size: 50px;
   font-weight: 300;
 }
 
@@ -50,7 +50,7 @@ p{
 }
 
 img{
-  width: 100%;
+  width: 30%;
 }
 
 ul{
@@ -61,12 +61,12 @@ ul{
 
 a{
   text-decoration: none;
-  color:  #99ffff;
+  color:  #8066aa;
   font-weight: 700;
 }
 
 .principal{
-  background: #ff6cb5;
+  background: #9264a0;
   height: 40px;
   max-width: 60%;
   margin: 0 auto;
@@ -86,7 +86,7 @@ a{
 }
 
 button{
- background: #41f341;
+ background: #e485d7;
  border: 1px solid transparent;
  padding: 2px 20px;
  border-radius: 3px;
