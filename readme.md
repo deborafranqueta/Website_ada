@@ -1,4 +1,4 @@
-<p align="center"><h1>Web site Ada Lovelace</h1>
+<p align="center"><h1>Website Ada Lovelace</h1>
 
 - <p align="center">Projeto criado durante a imersão da PROGRAMARIA, onde participei na turma 10. Fui muito legal e gratificante cada aula que foi passada.</p>
 
